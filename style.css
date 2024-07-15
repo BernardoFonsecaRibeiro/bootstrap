@@ -1,0 +1,37 @@
+*{
+    margin: 100;
+    padding: 100;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+}
+
+@font-face {
+    font-family: Bona_Nova_SC;
+    src: url(fontes/Bona_Nova_SC/OFL.txt);
+}
+.logo{
+    font-family: Bona_Nova_SC;
+    font-size: 3rem;
+    color: black;
+}
+section {
+    padding: 10px;
+    margin: 10px;
+}
+*#introducao{
+    width: 100vw;
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+    background-color: white
+
+}
+*#sistema{
+    width: 100vw;
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+    background-color: white
+
+}
+
